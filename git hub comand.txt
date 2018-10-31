@@ -1,0 +1,11 @@
+깃허브 커맨드
+
+
+PULL
+git pull origin master : 지정 해놓은 Repository 에서 끌어옴 
+
+PUSH
+git status : 현재 git 과의 상태를 check
+git add. : 변경된 파일들을 모두 Tracking
+git commit -m "message" : 인식 할수있는 commit을 달아줌
+git push origin +master : 실제로 git에 push
